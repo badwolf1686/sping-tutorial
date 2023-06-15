@@ -33,5 +33,5 @@ build/
 .vscode/
 
 ### npm ###
-package-lock.json
+package_lock.json
 node_modules/
